@@ -1,3 +1,4 @@
+
 let factor=0;
 let number=15;
 for(let i=0;i<number;i++){
